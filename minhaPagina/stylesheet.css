@@ -85,3 +85,10 @@ section {
     color: #fff;
     background: #252525;
 }
+
+.favorite-skill {
+    color: #05a8aa;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+}
